@@ -1,9 +1,9 @@
 package main
 
 import (
-	"jwt-gin/initializers"
-	"jwt-gin/middleware"
-	"jwt-gin/routes"
+	"jwt-gin/api/initializers"
+	"jwt-gin/api/middleware"
+	"jwt-gin/api/routes"
 
 	"github.com/gin-gonic/gin"
 )
